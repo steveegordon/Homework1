@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>The Page of Steve</title>
+	</head>
+
+
+	<body>
+		<img src="http://www.geeksblog.net/wp-content/uploads/2014/09/geek.jpg">
+		<br>
+		<h1> Stuff That I Think is Cool</h1>
+			<br>
+			<p> I fit the general description of a dork, dweeb, or nerd. There are a number of traditional forms of geek entertainment all of which tend to be very visual and text based. Here is a list of some such things:
+			</p>
+				<ol type="I">
+					<li> Video Games</li>
+					<li> Sci-Fi/Fantasy</li>
+					<li> Computers(obviously)</li>
+					<li> Random Weird Cat Pics</li>
+				</ol>
+			<p> In case the last one confuses you <a href="https://www.google.com/?gws_rd=ssl#q=random+weird+cat+pics" target="_blank">here</a> is a crash course.
+			</p>
+		<h2> More About Me</h2>
+			<br>
+			<p> Here is a list of people with my same name that are infinitely more interesting than me but not me. Feel free to peruse their page and be in awe of them and disappointed in me.
+			</p>
+				<ul>
+					<li><a href="https://plus.google.com/+SteveGordonOneBody/posts">Random guy with my name</a></li>
+					<li><a href="https://plus.google.com/105614408060654198015">This one looks more interesting</a></li>
+				</ul>
+			<p> On that note, feel free to email me using the standard geek salutation <a href="mailto:fakeemail@fakeaddress.com?Subject=Greetings!">By clicking right here</a>
+			</p>
+
+			
+	</body>
+
+</html>
